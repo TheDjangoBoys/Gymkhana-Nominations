@@ -14,7 +14,7 @@ Navigate to the folder <br>
 ` cd Gymkhana-Nominations `
 
 Install the required dependencies <br>
-` pip install -r requirements.txt `
+` pip3 install -r requirements.txt `
 
 Run the localhost-server <br>
 ` python3 manage.py runserver `
